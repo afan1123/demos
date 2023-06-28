@@ -1,0 +1,24 @@
+{
+  "name": "myantdesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "less": "^4.1.3",
+    "typescript": "^5.1.3",
+    "unplugin-vue-define-options": "^1.3.8",
+    "vite": "^4.3.9",
+    "vite-plugin-dts": "1.4.1",
+    "vue": "^3.2.36"
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.2.20"
+  }
+}
